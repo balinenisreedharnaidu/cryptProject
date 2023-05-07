@@ -14,7 +14,7 @@ const port = 8000;
 import axios from 'axios'
 const data=[]
 
-const url="mongodb+srv://balinenisreedharnaidu:S8nGweBb0Qs3B4d4@cluster0.xktjh8r.mongodb.net/myFirstData?retryWrites=true&w=majority"
+const url="mongodb+srv://balinenisreedharnaidu:<YOUR PASSWORD>@cluster0.xktjh8r.mongodb.net/<YOUR DATABASE NAME>?retryWrites=true&w=majority"
 const connectionParams={
   useNewUrlParser: true,
   useUnifiedTopology: true 
