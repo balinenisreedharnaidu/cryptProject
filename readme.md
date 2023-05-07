@@ -18,4 +18,4 @@ Steps to run the Project:
 
 5.check our page at api
 
-   localhost:8000/top10results
+   >> url:localhost:8000/top10results
